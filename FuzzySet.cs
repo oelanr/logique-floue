@@ -1,6 +1,7 @@
+
 namespace logiquefloue
 {
-    class FuzzySet
+    public class FuzzySet
     {
         private double a, b, c;
 
@@ -18,5 +19,6 @@ namespace logiquefloue
             if (x < c && b < x) return (c - x) / (c - b);// moyenne haute
             return 0;
         }
+
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("logique-floue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20c7791fae1c0bf653863bfa6aac1fae6ede043")]
 [assembly: System.Reflection.AssemblyProductAttribute("logique-floue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("logique-floue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
