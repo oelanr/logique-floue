@@ -36,7 +36,7 @@ namespace logiquefloue
         {
             for (double x = start; x <= end; x += step)
             {
-                if ((set1.Membership(x) - set2.Membership(x)) != 0)
+                if (Math.Abs(set1.Membership(x) - set2.Membership(x)) > 1e-6) // 1e-6 car possibilité d'imprécision numérique si A-B != 0
                 {
                     return false;
                 }
