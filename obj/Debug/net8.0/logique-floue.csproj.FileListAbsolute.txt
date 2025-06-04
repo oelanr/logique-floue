@@ -1,0 +1,14 @@
+/media/sda1/ISPM/L3/S1/IA/logique-floue/bin/Debug/net8.0/logique-floue
+/media/sda1/ISPM/L3/S1/IA/logique-floue/bin/Debug/net8.0/logique-floue.deps.json
+/media/sda1/ISPM/L3/S1/IA/logique-floue/bin/Debug/net8.0/logique-floue.runtimeconfig.json
+/media/sda1/ISPM/L3/S1/IA/logique-floue/bin/Debug/net8.0/logique-floue.dll
+/media/sda1/ISPM/L3/S1/IA/logique-floue/bin/Debug/net8.0/logique-floue.pdb
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.GeneratedMSBuildEditorConfig.editorconfig
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.AssemblyInfoInputs.cache
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.AssemblyInfo.cs
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.csproj.CoreCompileInputs.cache
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.dll
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/refint/logique-floue.dll
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.pdb
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/logique-floue.genruntimeconfig.cache
+/media/sda1/ISPM/L3/S1/IA/logique-floue/obj/Debug/net8.0/ref/logique-floue.dll

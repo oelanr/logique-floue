@@ -1,0 +1,3 @@
+μ(x)=0 si x≤a ou x≥c
+μ(x)=(x−a)/(b−a) si a<x≤b
+μ(x)=(c−x)/(c−b) si b<x<c
